@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://esobfiles.co.uk/sitemap.xml
